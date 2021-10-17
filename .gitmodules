@@ -1,0 +1,3 @@
+[submodule "react-gif-display"]
+	path = react-gif-display
+	url = git@github.com:Yeison2020/react-gif-display.git
